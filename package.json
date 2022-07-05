@@ -1,7 +1,8 @@
 {
-  "name": "jest-tutorial",
+  "name": "next-jest-example",
   "version": "0.1.0",
   "private": true,
+  "author": "Muhammad Anser Naseer",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
