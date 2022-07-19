@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #121212;
+  background-color: green;
   color: white;
 }
 
@@ -20,7 +20,7 @@
   padding: 0.5rem;
   font-size: large;
   width: 13rem;
-  background-color: #121212;
+  background-color: red;
   border: 1px solid #525252;
   color: white;
   border-radius: 10px;
@@ -31,8 +31,8 @@
   padding: 0.5rem;
   width: 13rem;
   margin: 0.5rem 0;
-  border: 1px solid black;
-  background-color: black;
+  border: 1px solid blue;
+  background-color: blue;
   border-radius: 10px;
   color: white;
 }
